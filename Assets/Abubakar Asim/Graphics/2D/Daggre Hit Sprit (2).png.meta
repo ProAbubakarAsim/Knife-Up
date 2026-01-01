@@ -1,0 +1,1456 @@
+fileFormatVersion: 2
+guid: 735e2d91000536e4f8e720bd20efe4d9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_0
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2633
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efdcff0040e8424c84e8e578eeadf09
+      internalID: 710187328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_1
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 2733
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61acb18320684174abff9c781803849f
+      internalID: -1226052257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_2
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 2733
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1f26a70f7f6974b9d787528dd9431c
+      internalID: 647798088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_3
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 2734
+        width: 114
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ccf4b92f2fb5e949a4ffc0d436f237f
+      internalID: 810025611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_4
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 2687
+        width: 167
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c566ed2457848334083e0e33b428ad06
+      internalID: 1853583498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_5
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 2664
+        width: 203
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d865e7fb1d72e7d419586c7b3c0c555d
+      internalID: 944356534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_6
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 2670
+        width: 312
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15063e7e235f5f04596bde8d116187eb
+      internalID: -1727546257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_7
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 2686
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51d2638ef6f3b249ad03e76fe2bcbcd
+      internalID: -525952869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_8
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 2686
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f809ef79d451ab4994a9a689beb7e02
+      internalID: -953756312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_9
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 2686
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf69e2e7d3f5f64d9dd86cd65427e60
+      internalID: -865794706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_10
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 2686
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343d128dc31dc0a4f943e564faa00a0f
+      internalID: -437817169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_11
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 2686
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb27b0a491536d47a267bd30056c8c2
+      internalID: 942260851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_12
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 2645
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12440101751b7d45819758f34cb5973
+      internalID: 660272399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_13
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 2592
+        width: 155
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f387a4e846b44947887370b16db574e
+      internalID: 851471007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_14
+      rect:
+        serializedVersion: 2
+        x: 2323
+        y: 2566
+        width: 265
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412d99fcaee390b4ab7b2c6c3576c66b
+      internalID: -2085568785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_15
+      rect:
+        serializedVersion: 2
+        x: 2651
+        y: 2547
+        width: 306
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8921033fbb17d4d4897d1a086b640984
+      internalID: 995123717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_16
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1967
+        width: 486
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc81f13217f471942a6fff98ef10ccb8
+      internalID: -2037895663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_17
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 2392
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb46e78f43a42249be36f28fbb956b9
+      internalID: 1939710959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_18
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 2391
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa270cae5417594f92ebbbf5dcd5448
+      internalID: -717406736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_19
+      rect:
+        serializedVersion: 2
+        x: 2777
+        y: 1974
+        width: 114
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e2d4ad1f705da42b8dbbc517d05643
+      internalID: 674518500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_20
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 2036
+        width: 347
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed0b22678a7e4e4bb2137b35a7bc98d
+      internalID: 804559608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_21
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 2189
+        width: 320
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e74d9c77f6325b4e86250a65da4c9f5
+      internalID: -2099850956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_22
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 2170
+        width: 401
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88161d46ecb52f34fa470428c0d18b9a
+      internalID: -1332261951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_23
+      rect:
+        serializedVersion: 2
+        x: 2255
+        y: 2186
+        width: 437
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3959066719dd62840b9295eeaeae2f4e
+      internalID: 2063576556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_24
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 1883
+        width: 315
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9425827276630741b902526b221b702
+      internalID: 1592654215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_25
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 1893
+        width: 406
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6b9ff8ca110e44ea113713509a4179
+      internalID: -20775835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_26
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 1980
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551a4a4688b942e4fbf882234d9522a2
+      internalID: 1310295974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_27
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 1873
+        width: 375
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdec7abf266238c44aadc98c8bcca77a
+      internalID: 905808353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_28
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1910
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80672723092a6db41a095f768e93238f
+      internalID: -284022387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_29
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1640
+        width: 305
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c91d100ffdfe1548a62c770e57ffdbf
+      internalID: 909244907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_30
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1757
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c495cf9d238b65e48a28845e0cc9103a
+      internalID: -429439130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_31
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1757
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463697968dadd1b4a86661b4d6c65f5b
+      internalID: 1479227827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_32
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1757
+        width: 14
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3eaaf9bd8e43d64789fc426a5d8b16b
+      internalID: 1485526718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_33
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1757
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b07dd2b052b9b4cbeda098df6f0f14
+      internalID: -2144659639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_34
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1757
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1ae801ff4d3c54787c2c05261f127c
+      internalID: -1395457852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_35
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1757
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035cd4bce175eec44815aae6082b23bc
+      internalID: -1045298070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_36
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1757
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e910d738a0484458e823192db137b5
+      internalID: 161214618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_37
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1757
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bbca09f5b652e439ed46727e2c7c66
+      internalID: -637689225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_38
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1757
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855faf697e6735843a6fcc7b621072d1
+      internalID: 670911574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_39
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1757
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb1f8c480c88bd4185a7ede3ba6eb15
+      internalID: -1669665389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_40
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 1757
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa93d19edf5fb6409534dff4bb97878
+      internalID: 902689348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_42
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1561
+        width: 72
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfc98ae0e0ac1c409d783c0901a12ce
+      internalID: -1483007111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_43
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1559
+        width: 57
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8e0fe71f2cead478cdf0257793f20d
+      internalID: -880524083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_44
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 1559
+        width: 57
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe33b31228a50b49acd2bd8b50d981b
+      internalID: -1428790715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_45
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 1488
+        width: 273
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf633db5942fb04f9e0524d93401ff4
+      internalID: 1628802225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_46
+      rect:
+        serializedVersion: 2
+        x: 2620
+        y: 1461
+        width: 271
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4febd226a458640b267fc6e1c4692e
+      internalID: 1403697654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_47
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1384
+        width: 304
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df75fb4310d5b4f48aaf4f3c5940e41f
+      internalID: -1305603579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_48
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 1378
+        width: 82
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d662c4fd264026844a1c0525c0865e29
+      internalID: -139147965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_49
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1378
+        width: 91
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e78747afc2c8bb448e8563b1e908c8b
+      internalID: -445479233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_50
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1063
+        width: 534
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60712562b8b978448629ca1596ba4dd
+      internalID: 320471696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_51
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1063
+        width: 353
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5cd422404fe5c429aa328266863803
+      internalID: -1585573635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_52
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 1089
+        width: 433
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4ce347ab765284098f61df823036e7
+      internalID: 1691127227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_53
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 562
+        width: 305
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5776e76bc74951242b5a74ad849479ad
+      internalID: 1883197463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_54
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 562
+        width: 305
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90aaacef8afc9c84fa6b17de51b765dd
+      internalID: -888042101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_55
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 562
+        width: 305
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5c0137aa23cc4439bc85a883a2030c
+      internalID: -2069336881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_56
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 562
+        width: 304
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e914bf4e3425b4e4bb603d5b4fd83ae5
+      internalID: -1285507962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_57
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 140
+        width: 306
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f5fd57e17c4254a985e8b6e5334ecb
+      internalID: -292132591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_58
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 140
+        width: 305
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c143e233d553b1a42bc3e1d6967276fb
+      internalID: 1520623850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_59
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 140
+        width: 303
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57023833bf3e4e46bbd89d0f08fc34e
+      internalID: -120480371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daggre Hit Sprit (2)_60
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 140
+        width: 304
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a43578ee1d0c742a8eeab7b01294e8
+      internalID: -1498831578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Daggre Hit Sprit (2)_17: 1939710959
+      Daggre Hit Sprit (2)_47: -1305603579
+      Daggre Hit Sprit (2)_18: -717406736
+      Daggre Hit Sprit (2)_22: -1332261951
+      Daggre Hit Sprit (2)_23: 2063576556
+      Daggre Hit Sprit (2)_50: 320471696
+      Daggre Hit Sprit (2)_53: 1883197463
+      Daggre Hit Sprit (2)_59: -120480371
+      Daggre Hit Sprit (2)_42: -1483007111
+      Daggre Hit Sprit (2)_32: 1485526718
+      Daggre Hit Sprit (2)_1: -1226052257
+      Daggre Hit Sprit (2)_51: -1585573635
+      Daggre Hit Sprit (2)_56: -1285507962
+      Daggre Hit Sprit (2)_46: 1403697654
+      Daggre Hit Sprit (2)_11: 942260851
+      Daggre Hit Sprit (2)_19: 674518500
+      Daggre Hit Sprit (2)_37: -637689225
+      Daggre Hit Sprit (2)_35: -1045298070
+      Daggre Hit Sprit (2)_8: -953756312
+      Daggre Hit Sprit (2)_28: -284022387
+      Daggre Hit Sprit (2)_52: 1691127227
+      Daggre Hit Sprit (2)_39: -1669665389
+      Daggre Hit Sprit (2)_57: -292132591
+      Daggre Hit Sprit (2)_49: -445479233
+      Daggre Hit Sprit (2)_5: 944356534
+      Daggre Hit Sprit (2)_33: -2144659639
+      Daggre Hit Sprit (2)_16: -2037895663
+      Daggre Hit Sprit (2)_54: -888042101
+      Daggre Hit Sprit (2)_24: 1592654215
+      Daggre Hit Sprit (2)_34: -1395457852
+      Daggre Hit Sprit (2)_30: -429439130
+      Daggre Hit Sprit (2)_6: -1727546257
+      Daggre Hit Sprit (2)_25: -20775835
+      Daggre Hit Sprit (2)_21: -2099850956
+      Daggre Hit Sprit (2)_40: 902689348
+      Daggre Hit Sprit (2)_38: 670911574
+      Daggre Hit Sprit (2)_4: 1853583498
+      Daggre Hit Sprit (2)_41: 851719999
+      Daggre Hit Sprit (2)_48: -139147965
+      Daggre Hit Sprit (2)_10: -437817169
+      Daggre Hit Sprit (2)_55: -2069336881
+      Daggre Hit Sprit (2)_3: 810025611
+      Daggre Hit Sprit (2)_13: 851471007
+      Daggre Hit Sprit (2)_45: 1628802225
+      Daggre Hit Sprit (2)_44: -1428790715
+      Daggre Hit Sprit (2)_26: 1310295974
+      Daggre Hit Sprit (2)_27: 905808353
+      Daggre Hit Sprit (2)_31: 1479227827
+      Daggre Hit Sprit (2)_15: 995123717
+      Daggre Hit Sprit (2)_29: 909244907
+      Daggre Hit Sprit (2)_12: 660272399
+      Daggre Hit Sprit (2)_43: -880524083
+      Daggre Hit Sprit (2)_7: -525952869
+      Daggre Hit Sprit (2)_2: 647798088
+      Daggre Hit Sprit (2)_0: 710187328
+      Daggre Hit Sprit (2)_20: 804559608
+      Daggre Hit Sprit (2)_58: 1520623850
+      Daggre Hit Sprit (2)_36: 161214618
+      Daggre Hit Sprit (2)_60: -1498831578
+      Daggre Hit Sprit (2)_14: -2085568785
+      Daggre Hit Sprit (2)_9: -865794706
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

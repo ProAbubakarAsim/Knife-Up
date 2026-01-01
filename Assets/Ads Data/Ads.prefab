@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2604868000754413964
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2604868000754413966}
+  - component: {fileID: 2604868000754413965}
+  m_Layer: 0
+  m_Name: Ads
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2604868000754413966
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2604868000754413964}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 799.97894, y: 124.83611, z: -12.700308}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2604868000754413965
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2604868000754413964}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5acca28bee9369c479369331fe182846, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  RawImg: {fileID: 0}
+  UnityIdIOS: 
+  UnityIdAndroid: 
+  Admob_Interstitial_Android: ca-app-pub-3940256099942544/1033173712
+  Admob_Banner_Android1: ca-app-pub-3940256099942544/6300978111
+  Admob_Banner_Android2: ca-app-pub-3940256099942544/6300978111
+  Admob_SmartBanner_Android3: ca-app-pub-3940256099942544/6300978111
+  Admob_Rewarded_Android: ca-app-pub-3940256099942544/5224354917
+  Admob_Native_Android: ca-app-pub-3940256099942544/2247696110
+  Admob_Interstitial_IOS: 
+  Admob_Banner_IOS: 
+  Admob_Rewarded_IOS: 
+  Admob_Native_IOS: 
+  _bannerType: 0
+  _bannerPosition1: 2
+  _bannerPosition2: 3
+  _SmartbannerPosition: 1
+  TestAds: 0
+  TwoBanners: 1
