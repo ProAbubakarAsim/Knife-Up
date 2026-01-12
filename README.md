@@ -8,7 +8,7 @@ The gameplay requires precise timing and accuracy, as incorrect throws result in
 As the game progresses, the difficulty increases through faster rotation and complex apple placements.
 
 ### 🎮 Gameplay Mechanics
-- Tap-to-throw knife mechanic
+- Tap-to-throw knife mechanics
 - Physics-based knife collision system
 - Rotating circular wooden target
 - Apple hit detection and scoring
